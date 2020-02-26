@@ -1,0 +1,6 @@
+C:\Users\miguel.can\source\repos\Patrones\Patrones\bin\Debug\Patrones.exe.config
+C:\Users\miguel.can\source\repos\Patrones\Patrones\bin\Debug\Patrones.exe
+C:\Users\miguel.can\source\repos\Patrones\Patrones\bin\Debug\Patrones.pdb
+C:\Users\miguel.can\source\repos\Patrones\Patrones\obj\Debug\Patrones.csproj.CoreCompileInputs.cache
+C:\Users\miguel.can\source\repos\Patrones\Patrones\obj\Debug\Patrones.exe
+C:\Users\miguel.can\source\repos\Patrones\Patrones\obj\Debug\Patrones.pdb
